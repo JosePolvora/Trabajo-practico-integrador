@@ -28,6 +28,29 @@ main{
     background-size: cover;
 }
 
+.logo{
+    margin-left: 20px;
+    margin-top: 30px;
+    position:absolute;
+}
+
+.iniciarSesion{
+    margin-left: 60px;
+    margin-top: 110px;
+    position:absolute;
+    font-size: 15px;
+    padding: 10px 5px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    background-color:transparent;
+}
+
 .head{
     padding: 0;
     height: 100%;
