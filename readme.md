@@ -12,4 +12,5 @@ En la rama FORMULARIOINICIOSESION encontraremos los archivos mencionados anterio
 - Archivo index.HTML.
 - Archivo main.js.
 - Archivo style.css.
+
 Estos últimos forman una página alternativa para llenar un formulario de inicio de sesión haciendo click en un botón "iniciar sesion" y para volver a la página principal hay que hacer click sobre el logo.
