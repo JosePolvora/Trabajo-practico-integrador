@@ -1,13 +1,13 @@
 # Trabajo-practico-integrador
 
-# En la rama MASTER están los siguientes archivos, con estos formamos la Landing page.
+En la rama MASTER están los siguientes archivos, con estos formamos la Landing page.
 - Carpeta imágenes
 - Carpeta javascript
 - Archivo trabajoPracticoIntegrador.CSS.
 - Archivo trabajoPracticoIntegrador.HTML.
 - Archivo PDF para descargar el boceto FIGMA.
 
-# En la rama FORMULARIOINICIOSESION encontraremos los archivos mencionados anteriormente actualizados y a esto se le suma la carpeta formularioInicioSesion, donde están los siguientes archivos:
+En la rama FORMULARIOINICIOSESION encontraremos los archivos mencionados anteriormente actualizados y a esto se le suma la carpeta formularioInicioSesion, donde están los siguientes archivos:
 - Carpeta images.
 - Archivo index.HTML.
 - Archivo main.js.
